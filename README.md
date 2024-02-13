@@ -1,5 +1,7 @@
 # Blueboard
-Blueboard for Software Engineering
+*2023.09.24 ~ 2023.12.01*
+
+*Blueboard for Software Engineering*
 
 
 #### Project 1: Project Proposal
